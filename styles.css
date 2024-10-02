@@ -1,0 +1,89 @@
+body{
+
+background-color: #A9A9A9;
+
+}
+
+#imagem { 
+
+width: 100%;
+
+}
+
+#imagem2{
+
+
+    width:100%;
+}
+
+nav li{
+
+display: inline;
+margin:0 0 0 50px;
+
+
+}
+
+nav a { 
+text-transform: uppercase;
+color: black;
+font-weight:bold;
+font-size: 22px;
+text-decoration: none;
+
+
+
+}
+
+h1{
+    text-align: center
+    
+}
+
+p{
+
+    text-align: center;
+}
+
+strong{
+
+    color: blue;
+    font-size:100px;
+}
+
+l2{
+    font-size:50px;
+}
+am{
+
+    font-size: 60px;
+    color: blue;
+    
+    
+}
+
+l5{
+
+    font-size: 50px;
+
+}
+
+l6{
+    font-size: 50px;
+}
+
+l7{
+
+    font-size: 25px;
+}
+
+caixa{ 
+
+    width: 850px;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    
+}
